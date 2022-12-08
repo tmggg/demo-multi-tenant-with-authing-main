@@ -5,8 +5,8 @@ export const config = {
   pageBaseHost: 'localhost:3007',
   authing: {
     // 应用 ID
-    appId: '638571c2c32b42b731183076',
+    appId: 'xxx',
     // 应用域名
-    appHost: 'https://opensource.authing.cn',
+    appHost: 'https://xxx.authing.cn',
   },
 }
